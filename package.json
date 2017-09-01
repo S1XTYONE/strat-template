@@ -10,6 +10,7 @@
         "gulp-imagemin": "^3.3.0",
         "gulp-js-minify": "0.0.3",
         "gulp-livereload": "^3.8.1",
+        "gulp-refresh": "^1.1.0",
         "gulp-rename": "^1.2.2",
         "gulp-sass": "^3.1.0"
     }

@@ -33,7 +33,7 @@ gulp.task('imgmin', function(){
 });
 
 gulp.task('watch', function(){
-    gulp.watch('sass/*.sass', ['csss']);
+    gulp.watch('sass/*.sass', ['css']);
 });
 
 gulp.task('watchjs', function(){
